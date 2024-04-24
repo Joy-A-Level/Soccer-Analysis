@@ -1,2 +1,2 @@
 # Soccer-Analysis
-Analysis of Soccer games for Professional leagues like UEFA, BundesLiga, FIFA, AFCON
+We attempt to analyze goals scored in football games from professional leagues like UEFA, BundesLiga, FIFA, AFCON
